@@ -2,6 +2,7 @@
 This project focuses on cleaning and merging customer and travel data to create a unified dataset for analysis. The raw data was processed using SQL to address missing values, standardize formats, and combine two related tables.
 
 **Steps Taken**
+
 *Data Cleaning*
 Replaced inconsistent gender identifiers (f and m) with "Female" and "Male".
 Addressed missing values by removing rows with null
