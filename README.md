@@ -21,4 +21,3 @@ The dataset (customer_travel_data.sql) contains:
 
  **Customer Table**: Information about customers, including their demographics and occupations.
 [Copy of Customer_cleaned_data(1).csv](https://github.com/user-attachments/files/18269514/Copy.of.Customer_cleaned_data.1.csv)
-
